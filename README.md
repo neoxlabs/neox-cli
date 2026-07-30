@@ -1,12 +1,38 @@
-# Neox CLI
-
-Terminal agent for NeoX — Ink REPL, slash commands, print and headless modes. Same production engine as Desktop.
-
-<p>
-  <a href="https://neox-dev.com/download"><img src="https://img.shields.io/badge/Download-neox--dev.com-0ea5e9?style=flat-square" alt="Download" /></a>
-  <a href="https://neox-dev.com"><img src="https://img.shields.io/badge/Website-neox--dev.com-111827?style=flat-square" alt="Website" /></a>
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-Proprietary-6b7280?style=flat-square" alt="License" /></a>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="docs/assets/mark-white.png">
+    <img src="docs/assets/mark-dark.png" alt="NeoX" width="88">
+  </picture>
 </p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="docs/assets/neox-white.png">
+    <img src="docs/assets/neox-dark.png" alt="neox" width="180">
+  </picture>
+</p>
+
+<h1 align="center">NeoX CLI</h1>
+
+<p align="center">
+  <strong>Terminal agent for real engineering work.</strong><br>
+  面向真实工程现场的终端 Agent。
+</p>
+
+<p align="center">
+  <a href="https://github.com/neoxlabs/neox-cli/stargazers"><img src="https://img.shields.io/github/stars/neoxlabs/neox-cli?style=social" alt="GitHub stars"></a>
+  <a href="https://github.com/neoxlabs/neox-cli/releases"><img src="https://img.shields.io/github/v/release/neoxlabs/neox-cli?display_name=tag&label=release" alt="Release"></a>
+</p>
+
+<p align="center">
+  <a href="https://neox-dev.com">Website</a> ·
+  <a href="https://neox-dev.com/download">Download</a> ·
+  <a href="https://neox-dev.com/docs">Docs</a> ·
+  <a href="https://github.com/neoxlabs/neox">NeoX</a> ·
+  <a href="mailto:support@neox-dev.com">Contact</a>
+</p>
+
+---
 
 ## Install
 
